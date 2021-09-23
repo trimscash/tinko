@@ -1,2 +1,2 @@
 # tinko
-this is TINKO
+this is just TINKO
